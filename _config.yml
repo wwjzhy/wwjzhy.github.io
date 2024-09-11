@@ -22,9 +22,9 @@ repository               : "wwjzhy/wwjzhy.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Wenjun Wang"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "South China University of Technology"
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
