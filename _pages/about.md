@@ -31,6 +31,6 @@ My current research interests mainly focus on large language models's internal h
 
 # 💻 Experiences
 
-- The Chinese University of Hong Kong，Shenzhen	Research assistant *2024.07-2024.09*
-- South China University of Technology, Computer Science and Technology, B.E., *2021.09-2025.07*
+- The Chinese University of Hong Kong，Shenzhen, Research assistant，*2024.07-2024.09*
+- South China University of Technology, Research assistant, *2024.01-2024.06*
 
