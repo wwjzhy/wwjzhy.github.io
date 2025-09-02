@@ -18,7 +18,6 @@ My current research interests mainly focus on large language models's internal h
 
 # 🎖 Selected Awards
 
-- National Scholarship *2024*
 - National Scholarship *2023*
 - The 2023 ICPC Asia Shenyang Regional Contest - Silver Medal 
 - 2024 Mathematical Contest In Modeling - Meritorious Winner
