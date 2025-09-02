@@ -19,7 +19,7 @@ My current research interests mainly focus on large language models's internal h
 
 InfiR : Crafting Effective Small Language Models and Multimodal Small Language Models in Reasoning
 
-Congkai Xie, **Shuo Cai**, Wenjun Wang, Pengxiang Li, Zhijie Sang, Kejing Yang, Yiming Zhang, Zhen Li, Guanghao Zhu, Zeyu Liu, Yang Yu, Yuhang Liu, Su Lu, Baoyi He, Qi Zhou, Xiaotian Han, Jianbo Yuan, Shengyu Zhang, Fei Wu, Hongxia Yang
+Congkai Xie, Shuo Cai, **Wenjun Wang**, Pengxiang Li, Zhijie Sang, Kejing Yang, Yiming Zhang, Zhen Li, Guanghao Zhu, Zeyu Liu, Yang Yu, Yuhang Liu, Su Lu, Baoyi He, Qi Zhou, Xiaotian Han, Jianbo Yuan, Shengyu Zhang, Fei Wu, Hongxia Yang
 
 [**PDF**](https://arxiv.org/pdf/2502.11573) 
 
