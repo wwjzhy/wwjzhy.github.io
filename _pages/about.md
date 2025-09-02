@@ -36,13 +36,11 @@ Congkai Xie, Shuo Cai, **Wenjun Wang**, Pengxiang Li, Zhijie Sang, Kejing Yang, 
 - 2024 Mathematical Contest In Modeling - Meritorious Winner
 
 # 📖 Educations
+- *2025.09 - present*, Doctor of Philosophy, Department of Computing, The Hong Kong Polytechnic University.
+- *2021.09 - 2025.06*, Undergraduate, Computer Science and Technology, South China University of Technology.
 
-- South China University of Technology, Computer Science and Technology, B.E., *2021.09-2025.07*
-
-
-
-# 💻 Experiences
-
-- The Chinese University of Hong Kong，Shenzhen, Research assistant，*2024.07-2024.09*
-- South China University of Technology, Research assistant, *2024.01-2024.06*
+# 💻 Internships
+- *2025.06 - 2025.09*, Research Intern, [Infix.ai](https://infix-ai.com/), Shenzhen.
+- *2024.07-2024.09*, Research assistant, The Chinese University of Hong Kong，Shenzhen.
+- *2024.01-2024.06*, Research assistant, South China University of Technology.
 
