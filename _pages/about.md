@@ -28,7 +28,7 @@ Congkai Xie, Shuo Cai, **Wenjun Wang**, Pengxiang Li, Zhijie Sang, Kejing Yang, 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLING 2025</div><img src='images/Infir.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLING 2025</div><img src='images/TRIM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Less is More: A Simple yet Effective Token Reduction Method for Efficient Multi-modal LLMs
