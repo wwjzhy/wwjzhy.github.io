@@ -12,7 +12,7 @@ repository               : "wwjzhy/wwjzhy.github.io"
 
 # Site Author
 author:
-  avatar       : "/images/website_picture.png"
+  avatar       : "images/website_picture.png"
   name         : "Wenjun Wang"
   location     : "Hong Kong, China"
   email        : "wj.wang369@foxmail.com"
