@@ -8,22 +8,22 @@ redirect_from:
   - /about.html
 ---
 
-Hi~ I am currently a fourth-year undergraduate student at the Department of Computer Science and Engineering, South China University of Technology(SCUT). 
+Hi~ I am a fourth-year undergraduate student in the Department of Computer Science and Engineering at South China University of Technology (SCUT).  
 
-My current research interests mainly focus on large language models's internal hallucination.
+My research interests mainly focus on the internal hallucination mechanisms of large language models.
 
 # 📝 Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/TRIM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-InfiR : Crafting Effective Small Language Models and Multimodal Small Language Models in Reasoning
+**InfiR: Crafting Effective Small Language Models and Multimodal Small Language Models in Reasoning**
 
-Congkai Xie, Shuo Cai, **Wenjun Wang**, Pengxiang Li, Zhijie Sang, Kejing Yang, Yiming Zhang, Zhen Li, Guanghao Zhu, Zeyu Liu, Yang Yu, Yuhang Liu, Su Lu, Baoyi He, Qi Zhou, Xiaotian Han, Jianbo Yuan, Shengyu Zhang, Fei Wu, Hongxia Yang
+Congkai Xie, Shuo Cai, **Wenjun Wang**, Pengxiang Li, Zhijie Sang, Kejing Yang, Yiming Zhang, Zhen Li, Guanghao Zhu, Zeyu Liu, Yang Yu, Yuhang Liu, Su Lu, Baoyi He, Qi Zhou, Xiaotian Han, Jianbo Yuan, Shengyu Zhang, Fei Wu, Hongxia Yang  
 
-[**PDF**](https://arxiv.org/pdf/2502.11573) 
+[**PDF**](https://arxiv.org/pdf/2502.11573)  
 
-- This paper explores the development of efficient Small Language Models (SLMs) and Multimodal Small Language Models (MSLMs) that maintain strong reasoning abilities. It introduces an innovative training pipeline designed to enhance reasoning skills while enabling easy deployment on edge devices. The proposed approach achieves SoTA performance while keeping development costs low. InfR aims to improve AI systems by strengthening reasoning capabilities, lowering adoption barriers, and addressing privacy concerns through compact model sizes.
+- This paper explores the development of efficient Small Language Models (SLMs) and Multimodal Small Language Models (MSLMs) that maintain strong reasoning abilities. It introduces an innovative training pipeline designed to enhance reasoning skills while enabling easy deployment on edge devices. The proposed approach achieves SoTA performance while keeping development costs low. InfiR aims to improve AI systems by strengthening reasoning capabilities, lowering adoption barriers, and addressing privacy concerns through compact model sizes.
 
 </div>
 </div>
@@ -31,32 +31,21 @@ Congkai Xie, Shuo Cai, **Wenjun Wang**, Pengxiang Li, Zhijie Sang, Kejing Yang, 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLING 2025</div><img src='images/TRIM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Less is More: A Simple yet Effective Token Reduction Method for Efficient Multi-modal LLMs
+**Less is More: A Simple yet Effective Token Reduction Method for Efficient Multi-modal LLMs**
 
-Dingjie Song, **Wenjun Wang**, Shunian Chen, Xidong Wang, Michael Guan, Benyou Wang
+Dingjie Song, **Wenjun Wang**, Shunian Chen, Xidong Wang, Michael Guan, Benyou Wang  
 
-[**PDF**](https://arxiv.org/abs/2409.10994v2) 
+[**PDF**](https://arxiv.org/abs/2409.10994v2)  
 
-- This paper explores the development of efficient Small Language Models (SLMs) and Multimodal Small Language Models (MSLMs) that maintain strong reasoning abilities. It introduces an innovative training pipeline designed to enhance reasoning skills while enabling easy deployment on edge devices. The proposed approach achieves SoTA performance while keeping development costs low. InfR aims to improve AI systems by strengthening reasoning capabilities, lowering adoption barriers, and addressing privacy concerns through compact model sizes.
+- This paper proposes a simple yet effective token reduction method to improve the efficiency of multi-modal large language models. By adaptively selecting informative tokens, the method reduces computational cost while preserving model performance. Experiments demonstrate significant efficiency gains across various multimodal benchmarks.
 
 </div>
 </div>
-
-
-
 
 # 🎖 Selected Awards
 
-- National Scholarship 2023
-- The 2023 ICPC Asia Shenyang Regional Contest - Silver Medal 
-- 2024 Mathematical Contest In Modeling - Meritorious Winner
+- National Scholarship, 2023  
+- ICPC Asia Shenyang Regional Contest – Silver Medal, 2023  
+- Mathematical Contest in Modeling – Meritorious Winner, 2024  
 
-# 📖 Educations
-- *2025.09 - present*, Doctor of Philosophy, Department of Computing, The Hong Kong Polytechnic University.
-- *2021.09 - 2025.06*, Undergraduate, Computer Science and Technology, South China University of Technology.
-
-# 💻 Internships
-- *2025.06 - 2025.09*, Research Intern, [Infix.ai](https://infix-ai.com/), Shenzhen.
-- *2024.07-2024.09*, Research assistant, The Chinese University of Hong Kong，Shenzhen.
-- *2024.01-2024.06*, Research assistant, South China University of Technology.
-
+#
